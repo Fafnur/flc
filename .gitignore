@@ -39,3 +39,14 @@ testem.log
 Thumbs.db
 
 .angular
+
+# Custom
+package-lock.json
+.env
+/apps/**/.env
+/apps/**/routes.txt
+/apps/**/sitemap.xml
+/apps/backend/api/src/assets/keys
+/libs/**/source.xlf
+/keys
+/platforms
